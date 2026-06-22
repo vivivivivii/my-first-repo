@@ -8,7 +8,7 @@ A simple Python calculator.
 python calculator.py
 ```
 
-## Fuctions
+## Functions
 
 - Add
 - Subtract
